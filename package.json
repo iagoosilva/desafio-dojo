@@ -1,0 +1,23 @@
+{
+  "name": "desafio-dojo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iagoosilva/desafio-dojo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iagoosilva/desafio-dojo/issues"
+  },
+  "homepage": "https://github.com/iagoosilva/desafio-dojo#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
